@@ -6,7 +6,7 @@ The data used in this lab is derived from [Game of Active Directory](https://git
 
 While these are not needed for the lab, some neat resources regarding BloodHound queries can be found at these links:
 - https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
-- https://github.com/awsmhacks/awsmBloodhoundCustomQueries#17-groups-with-most-local-admin
+- https://github.com/awsmhacks/awsmBloodhoundCustomQueries
 - https://phackt.com/pentesting-bloodhound-cypher-queries
 
 <details>
